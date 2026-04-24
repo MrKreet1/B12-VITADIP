@@ -1,0 +1,6 @@
+rank,name,status,E_hartree,dE_eV,dE_kcal_mol,converged
+1,rank02_quasi_planar_nn2.00_perturb0,OK,-297.87422668,0.0000,0.000,True
+2,rank01_quasi_planar_nn1.70_perturb0,OK,-297.87422525,0.0000,0.001,True
+3,rank04_quasi_planar_nn3.00,OK,-297.87421132,0.0004,0.010,True
+4,rank03_quasi_planar_nn2.00,OK,-297.87420820,0.0005,0.012,True
+5,rank05_quasi_planar_nn2.50,OK,-297.87420734,0.0005,0.012,True

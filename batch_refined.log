@@ -1,0 +1,13 @@
+Использую ORCA: /opt/orca/orca
+Найдено заданий: 5
+[1/5] RUN  rank01_quasi_planar_nn1.70_perturb0
+[1/5] OK   rank01_quasi_planar_nn1.70_perturb0 (1283s)
+[2/5] RUN  rank02_quasi_planar_nn2.00_perturb0
+[2/5] OK   rank02_quasi_planar_nn2.00_perturb0 (1286s)
+[3/5] RUN  rank03_quasi_planar_nn2.00
+[3/5] OK   rank03_quasi_planar_nn2.00 (1118s)
+[4/5] RUN  rank04_quasi_planar_nn3.00
+[4/5] OK   rank04_quasi_planar_nn3.00 (1102s)
+[5/5] RUN  rank05_quasi_planar_nn2.50
+[5/5] OK   rank05_quasi_planar_nn2.50 (1090s)
+Готово. Лог: jobs_refined/_progress.log

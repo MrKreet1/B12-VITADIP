@@ -1,0 +1,122 @@
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 3]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 4]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 5]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 6]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 0]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 1]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 2]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[file orca_leanscf/orca_leanscf.cpp, line 306, Process 7]: Error (ORCA_LEANSCF): unfortunately, the SCF has not converged. There may be a way out but we have to stop here 
+[vmi3233575:1803413] *** Process received signal ***
+[vmi3233575:1803413] Signal: Aborted (6)
+[vmi3233575:1803413] Signal code:  (-6)
+[vmi3233575:1803410] *** Process received signal ***
+[vmi3233575:1803410] Signal: Aborted (6)
+[vmi3233575:1803410] Signal code:  (-6)
+[vmi3233575:1803402] *** Process received signal ***
+[vmi3233575:1803402] Signal: Aborted (6)
+[vmi3233575:1803402] Signal code:  (-6)
+[vmi3233575:1803401] *** Process received signal ***
+[vmi3233575:1803401] Signal: Aborted (6)
+[vmi3233575:1803401] Signal code:  (-6)
+[vmi3233575:1803403] *** Process received signal ***
+[vmi3233575:1803404] *** Process received signal ***
+[vmi3233575:1803404] Signal: Aborted (6)
+[vmi3233575:1803404] Signal code:  (-6)
+[vmi3233575:1803405] *** Process received signal ***
+[vmi3233575:1803405] Signal: Aborted (6)
+[vmi3233575:1803405] Signal code:  (-6)
+[vmi3233575:1803403] Signal: Aborted (6)
+[vmi3233575:1803403] Signal code:  (-6)
+[vmi3233575:1803400] *** Process received signal ***
+[vmi3233575:1803400] Signal: Aborted (6)
+[vmi3233575:1803400] Signal code:  (-6)
+[vmi3233575:1803405] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x7a5f35c45330]
+[vmi3233575:1803405] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x7a5f35c9eb2c]
+[vmi3233575:1803405] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x7a5f35c4527e]
+[vmi3233575:1803405] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x7a5f35c288ff]
+[vmi3233575:1803405] [ 4] [vmi3233575:1803401] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x79882f245330]
+[vmi3233575:1803401] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x79882f29eb2c]
+[vmi3233575:1803401] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x79882f24527e]
+[vmi3233575:1803401] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x79882f2288ff]
+[vmi3233575:1803401] [ 4] [vmi3233575:1803404] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x750614245330]
+[vmi3233575:1803404] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x75061429eb2c]
+[vmi3233575:1803404] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x75061424527e]
+[vmi3233575:1803404] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x7506142288ff]
+[vmi3233575:1803404] [ 4] [vmi3233575:1803400] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x7df4b4445330]
+[vmi3233575:1803400] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x7df4b449eb2c]
+[vmi3233575:1803400] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x7df4b444527e]
+[vmi3233575:1803400] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x7df4b44288ff]
+[vmi3233575:1803400] [ 4] [vmi3233575:1803413] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x73dcd0445330]
+[vmi3233575:1803413] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x73dcd049eb2c]
+[vmi3233575:1803413] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x73dcd044527e]
+[vmi3233575:1803413] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x73dcd04288ff]
+[vmi3233575:1803413] [ 4] [vmi3233575:1803410] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x71a4e1c45330]
+[vmi3233575:1803410] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x71a4e1c9eb2c]
+[vmi3233575:1803410] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x71a4e1c4527e]
+[vmi3233575:1803410] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x71a4e1c288ff]
+[vmi3233575:1803410] [ 4] [vmi3233575:1803402] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x7e7468445330]
+[vmi3233575:1803402] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x7e746849eb2c]
+[vmi3233575:1803402] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x7e746844527e]
+[vmi3233575:1803402] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x7e74684288ff]
+[vmi3233575:1803402] [ 4] /opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x7df4b97a1f50]
+[vmi3233575:1803400] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803400] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x7df4b442a1ca]
+[vmi3233575:1803400] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x7df4b442a28b]
+[vmi3233575:1803400] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803400] *** End of error message ***
+/opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x73dcd57a1f50]
+[vmi3233575:1803413] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803413] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x73dcd042a1ca]
+[vmi3233575:1803413] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x73dcd042a28b]
+[vmi3233575:1803413] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803413] *** End of error message ***
+[vmi3233575:1803403] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x45330)[0x7518e7445330]
+[vmi3233575:1803403] [ 1] /lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x7518e749eb2c]
+[vmi3233575:1803403] [ 2] /lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x7518e744527e]
+[vmi3233575:1803403] [ 3] /lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x7518e74288ff]
+[vmi3233575:1803403] [ 4] /opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x71a4e6fa1f50]
+[vmi3233575:1803410] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803410] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x71a4e1c2a1ca]
+[vmi3233575:1803410] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x71a4e1c2a28b]
+[vmi3233575:1803410] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803410] *** End of error message ***
+/opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x7a5f3afa1f50]
+[vmi3233575:1803405] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803405] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x7a5f35c2a1ca]
+[vmi3233575:1803405] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x7a5f35c2a28b]
+[vmi3233575:1803405] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803405] *** End of error message ***
+/opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x7988345a1f50]
+[vmi3233575:1803401] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803401] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x79882f22a1ca]
+[vmi3233575:1803401] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x79882f22a28b]
+[vmi3233575:1803401] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803401] *** End of error message ***
+/opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x7e746d7a1f50]
+[vmi3233575:1803402] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803402] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x7e746842a1ca]
+[vmi3233575:1803402] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x7e746842a28b]
+[vmi3233575:1803402] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803402] *** End of error message ***
+/opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x7518ec7a1f50]
+[vmi3233575:1803403] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803403] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x7518e742a1ca]
+[vmi3233575:1803403] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x7518e742a28b]
+[vmi3233575:1803403] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803403] *** End of error message ***
+/opt/orca/lib/liborca_tools_6_1_1_mpi.so.6(_Z9PAL_Aborti+0x20)[0x7506195a1f50]
+[vmi3233575:1803404] [ 5] /opt/orca/orca_leanscf_mpi[0x426c3f]
+[vmi3233575:1803404] [ 6] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x75061422a1ca]
+[vmi3233575:1803404] [ 7] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x75061422a28b]
+[vmi3233575:1803404] [ 8] /opt/orca/orca_leanscf_mpi[0x426116]
+[vmi3233575:1803404] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node vmi3233575 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
