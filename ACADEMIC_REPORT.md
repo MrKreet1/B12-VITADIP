@@ -220,19 +220,3 @@ dE = 0.0000 eV
 ```
 
 Таким образом, в рамках проведенного исследования наиболее устойчивым кандидатом на минимум нейтрального B12 является квазипланарная структура, сохраненная в файле `best_refined.xyz`.
-
-## 8. Литература
-
-Список составлен по ORCA-generated `.bibtex` для уточненного расчета QP-1.
-
-1. Neese F. Software update: the ORCA program system, version 6.0. *WIREs Computational Molecular Science*. 2025;15(1):e70019. DOI: `10.1002/wcms.70019`.
-2. Neese F. The ORCA program system. *WIREs Computational Molecular Science*. 2012;2(1):73-78. DOI: `10.1002/wcms.81`.
-3. Neese F., Wennmohs F., Becker U., Riplinger C. The ORCA quantum chemistry program package. *Journal of Chemical Physics*. 2020;152(22):224108. DOI: `10.1063/5.0004608`.
-4. Neese F. An improvement of the resolution of the identity approximation for the formation of the Coulomb matrix. *Journal of Computational Chemistry*. 2003;24(14):1740-1747. DOI: `10.1002/jcc.10318`.
-5. Neese F., Wennmohs F., Hansen A., Becker U. Efficient, approximate and parallel Hartree-Fock and hybrid DFT calculations. A chain-of-spheres algorithm for the Hartree-Fock exchange. *Chemical Physics*. 2009;356(1-3):98-109. DOI: `10.1016/j.chemphys.2008.10.036`.
-6. Grimme S., Antony J., Ehrlich S., Krieg H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu. *Journal of Chemical Physics*. 2010;132:154104. DOI: `10.1063/1.3382344`.
-7. Grimme S., Ehrlich S., Goerigk L. Effect of the damping function in dispersion corrected density functional theory. *Journal of Computational Chemistry*. 2011;32(7):1456-1465. DOI: `10.1002/jcc.21759`.
-8. Boustani I. Systematic ab initio investigation of bare boron clusters: Determination of the geometry and electronic structures of B_n (n = 2–14). *Physical Review B*. 1997;55(24):16426-16438. DOI: `10.1103/PhysRevB.55.16426`.
-9. Alexandrova A.N., Boldyrev A.I., Zhai H.-J., Wang L.-S. All-boron aromatic clusters as potential new inorganic ligands and building blocks in chemistry. *Coordination Chemistry Reviews*. 2006;250(21-22):2811-2866. DOI: `10.1016/j.ccr.2006.03.032`.
-10. Zhai H.-J., Alexandrova A.N., Birch K.A., Boldyrev A.I., Wang L.-S. Hepta- and octacoordinate boron in molecular wheels of eight- and nine-atom boron clusters: Observation and confirmation. *Angewandte Chemie International Edition*. 2003;42(48):6004-6008. DOI: `10.1002/anie.200351874`.
-11. Lipscomb W.N. *Boron Hydrides*. New York: W. A. Benjamin; 1963.
